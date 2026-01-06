@@ -26,4 +26,4 @@ Antialiasing – randomized sampling and averaging to reduce jagged edges.
 
 - Creating parametric Objects with parametric equations and mesh representations including hill's Barn: [Project Link](https://jsfiddle.net/pinks01/vhc905ym/213/)
 - Working with world transformations and ortographic viewing, lights and textures: [Project Link](https://jsfiddle.net/pinks01/4zfcL3t6/146/)
-- Ray Tracing: [Project Link](./output.png)
+- Ray Tracing: [Project Link](./output.jpeg)
